@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>macos on Petro Ladkin</title>
+    <link>https://petroladkin.github.io/categories/macos/</link>
+    <description>Recent content in macos on Petro Ladkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://petroladkin.github.io/categories/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KeyReel macOS</title>
+      <link>https://petroladkin.github.io/portfolio/auxoft_keyreel_osx/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://petroladkin.github.io/portfolio/auxoft_keyreel_osx/</guid>
+      <description>KeyReel is an easy-to-use password manager app and auto-login solution that turns your phone into a wireless login key, encrypted password storage vault, and password manager for your Mac or PC. Store and auto-fill passwords safely to nearly any device without the cloud for both privacy and convenience. With your phone in the Bluetooth range of your computer, your credentials are transmitted from your phone to auto-fill the login screen on your computer.</description>
+    </item>
+    
+  </channel>
+</rss>
