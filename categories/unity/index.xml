@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Petro Ladkin</title>
-    <link>https://petroladkin.github.io/</link>
-    <description>Recent content on Petro Ladkin</description>
+    <title>unity on Petro Ladkin</title>
+    <link>https://petroladkin.github.io/categories/unity/</link>
+    <description>Recent content in unity on Petro Ladkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0300</lastBuildDate><atom:link href="https://petroladkin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0300</lastBuildDate><atom:link href="https://petroladkin.github.io/categories/unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kaup</title>
       <link>https://petroladkin.github.io/portfolio/dm_kaup/</link>
