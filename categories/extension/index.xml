@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>extension on Petro Ladkin</title>
+    <link>https://petroladkin.github.io/categories/extension/</link>
+    <description>Recent content in extension on Petro Ladkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0200</lastBuildDate><atom:link href="https://petroladkin.github.io/categories/extension/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KeyReel Web Extension</title>
+      <link>https://petroladkin.github.io/portfolio/auxoft_keyreel_ext/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://petroladkin.github.io/portfolio/auxoft_keyreel_ext/</guid>
+      <description>Development description
+ Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with Web extension With the team under my leadership developed the main version of the product:  Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for iOS Designed and developed KeyReel Web Extension    App description</description>
+    </item>
+    
+    <item>
+      <title>KeyReel Testing DB</title>
+      <link>https://petroladkin.github.io/portfolio/auxoft_keyreel_testdb/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://petroladkin.github.io/portfolio/auxoft_keyreel_testdb/</guid>
+      <description>Development description
+ Designed and developed Chrome extension to manual KeyReel testing  App description
+Contains a database of test accounts to speed up KeyReel testing.
+screenshots               </description>
+    </item>
+    
+  </channel>
+</rss>
