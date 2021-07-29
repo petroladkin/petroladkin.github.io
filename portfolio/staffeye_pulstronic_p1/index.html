@@ -20,7 +20,7 @@
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta name="description" property="og:description" content="The website of Petro Ladkin, Software Development Engineer">
+  <meta name="description" property="og:description" content="Refactored existing test system to remove magic numbers and spaghetti code [part 1]">
   <meta name="image" property="og:image" content="/">
   <meta name="author" content="Petro Ladkin">
   <meta name="generator" content="Hugo 0.83.1" />
@@ -36,8 +36,7 @@
   
   <link rel="stylesheet" href="/css/syntax.min.css" integrity="" media="screen">
 
-  <link rel="alternate" type="application/rss+xml" href="https://petroladkin.github.io/about/index.xml" title="Petro Ladkin" />
-<script src="https://cdn.jsdelivr.net/npm/mailgo@0.9.14/dist/mailgo.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/mailgo@0.9.14/dist/mailgo.min.js" defer></script>
 
   <!--Favicon-->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -46,7 +45,7 @@
   <link rel="manifest" href="/site.webmanifest">
 
 </head>
-<body class="about">
+<body class="portfolio">
     <div class="wrapper"><div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
     <nav class="uk-navbar-container uk-margin" uk-navbar="mode: click;" style="padding-right: 3rem">
         <div class="uk-navbar-right">
@@ -74,8 +73,7 @@
                 
                 
                 
-                <li class="uk-active"><a style="font-size: 18px; text-transform:none"
-                        href="/about">About</a></li>
+                <li><a style="font-size: 18px; text-transform: none" href="/about">About</a></li>
                 
                 
                 
@@ -95,7 +93,8 @@
                 
                 
                 
-                <li><a style="font-size: 18px; text-transform: none" href="/portfolio">Portfolio</a></li>
+                <li class="uk-active"><a style="font-size: 18px; text-transform:none"
+                        href="/portfolio">Portfolio</a></li>
                 
                 
             </ul>
@@ -132,7 +131,7 @@
             
             
             
-            <li class="uk-active"><a style="font-size: 18px" href="/about">About</a></li>
+            <li><a style="font-size: 18px" href="/about">About</a></li>
             
             
             
@@ -152,7 +151,7 @@
             
             
             
-            <li><a style="font-size: 18px" href="/portfolio">Portfolio</a></li>
+            <li class="uk-active"><a style="font-size: 18px" href="/portfolio">Portfolio</a></li>
             
             
         </ul>
@@ -163,66 +162,124 @@
 
 
 
-<section class="uk-margin-large-bottom">
-        <h1 class="uk-heading-large uk-text-center">About</h1>
-</section>
+<style>
+  p {
+    margin: 0
+  }
+
+  .people-wrap {
+    display: inline-flex;
+    margin-top: 10px;
+  }
+
+  .people-image {
+    display: block;
+    border-radius: 50%;
+     
+  }
+
+  .people {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .name {
+    margin: auto;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #000;
+    font-family: Roboto, sans-serif;
+    line-height: 1.2;
+    margin-top: 2rem;
+  }
+
+  .content img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:30px;
+  }
+
+  p { margin-bottom: 1em; }
+
+  body p:last-child { margin-bottom: 0em; }
+
+  img.skills{
+    height: 80px;
+  }
+
+  @media only screen and (min-width: 960px) {
+    .content img{max-width:60vw; max-height:60vh}
+
+  .content img{
+      max-width:60vw;
+      max-height:60vh
+  }
+  }
+  .content{
+      width: 90vw;
+      max-width: 1200px
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+</style>
 
 
-<!-- About -->
+<section>
+  <div class="uk-container uk-margin-large-bottom uk-margin-medium-top">
+    <h1 class="uk-text-center uk-heading-medium">Pulsotronic Test System</h1>
+    <p class="uk-text-center uk-text-lead">Refactored existing test system to remove magic numbers and spaghetti code [part 1]</p>
+    <p class="uk-text-center">C#</p>
+    <p class="uk-text-center">Windows</p>
+    
 
-<link rel="stylesheet" href="/css/about.min.css">
+    <div class="uk-child-width-1-4@m uk-child-width-1-2@s uk-text-center uk-flex-center uk-grid-large uk-margin-small-top" uk-grid>
+      
+
+    
 
 
-<section class="uk-margin-large-bottom">
-  <div class="uk-container">
-    <div class="uk-flex-center" uk-grid>
-      <div class="uk-width-1-2 uk-width-1-3@s">
-        <img src="https://petroladkin.github.io/images/Avatar_Photo.jpg" alt="author">
-      </div>
-      <div class="uk-width-expand@m">
-        <p><strong>Hi! I&rsquo;m Petro Ladkin,</strong></p>
-<p>accomplished software engineer with extensive experience in developing mobile, desktop, and server applications, tech lead, and architect roles:</p>
-<ul>
-<li>15 years in software development, primarily in C/C++/Objective-C/C# for mobile platform</li>
-<li>Last 5 years focused on iOS, macOS, and Safari development using Swift</li>
-<li>Also over 8 years of development in JavaScript/TypeScript/CoffeeScript, Python, Java for desktop tools/applications and browser extensions</li>
-<li>Over 10 years of leading engineering teams and designing a complex software solution</li>
-<li>Over 1 year of development Augmented Reality using Unity, ARFoundation, EasyAR</li>
-<li>Fast in learning and applying new technologies, flexible in adopting ever-changing requirements</li>
-<li>Deep expertise in security apps, Bluetooth communication, and driver development</li>
-<li>Easily build communication with developers and able to direct teamwork to the goals within schedules</li>
-<li>Patent for “Short-distance Network Electronic Authentication”, <a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;u=/netahtml/PTO/search-adv.htm&amp;r=1&amp;p=1&amp;f=G&amp;l=50&amp;d=PTXT&amp;S1=10,764,056.PN.&amp;OS=PN/10,764,056&amp;RS=PN/10,764,056">US 10,764,056</a></li>
-</ul>
-<p><strong>Things I&rsquo;m passionate about:</strong></p>
-<ul>
-<li>finding the simplest design for the problem</li>
-<li>continuously learning and trying new technologies</li>
-<li>not religious about any technology – looking for the right tool and the last stack for a job</li>
-</ul>
-<p><strong>Computer skills:</strong></p>
-<ul>
-<li>Unity: AR Foundation, LipSync, Lean Localization, MapBox</li>
-<li>AR: ARKit, Unity AR Foundation, Unity Vuforia, Unity EasyAR</li>
-<li>Languages: C, C++, ObjC, C#, Swift, Python, JavaScript/TypeScript, CoffeeScript, Java</li>
-<li>UI Frameworks: UIKit, Cocoa, UWP, (previously WTL, wxWidgets, Qt, Windows
-Forms, WinAPI, MFC)</li>
-<li>Operating Systems: Windows Desktop/Server, Ubuntu/CentOS, iOS/macOS (previously
-Android, Windows Mobile, Blackberry)</li>
-<li>Security: communication encryption, file encryption, communication handshake
-(previously voice/text/HDD/flash encryption, OpenSSL)</li>
-<li>Networking and Web: TCP/IP, UDP/IP, RPC (Thrift, JSON), HTTP/REST</li>
-<li>Databases: SQLite (previously PostgreSQL, MySQL)</li>
-<li>(Previously) Web: HTML/CSS/SASS/JavaScript/AJAX/jQuery/Jade</li>
-</ul>
 
+      <div>
+        
       </div>
     </div>
+    
 
+    <div class="content">
+      <p><strong>Development description</strong></p>
+<ul>
+<li>Analyzed the existing code in the test engine to find the optimal intervention point because the code works in production</li>
+<li>Сreated a specific XML parser to support test configuration and integrated it into existing test engine</li>
+<li>Designed and implemented the ability to move magic numbers from the test code to configuration XML-files</li>
+<li>Analyzed the existing code in the test scripts to find repeating code</li>
+<li>Extracted repeating code from existing test scripts into a separate class</li>
+</ul>
+
+    </div>
+
+    
   </div>
-
+  </div>
 </section>
-
-
 
 
 
