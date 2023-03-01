@@ -6,25 +6,35 @@
     <description>Recent content in windows on Petro Ladkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0300</lastBuildDate><atom:link href="https://petroladkin.github.io/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://petroladkin.github.io/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code generator from OMG IDL</title>
+      <link>https://petroladkin.github.io/portfolio/staffeye_omgidlgen/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petroladkin.github.io/portfolio/staffeye_omgidlgen/</guid>
+      <description>Development description
+Designed and developed the generator tool based on the customer’s requirements Developed Flex and Bison rules to generate AST (Abstract syntax tree) from OMG IDL syntax Designed and developed the base code for serialization/deserialization data for the next languages: C, C++, C#, Python Developed writers for next languages: C, C++, C#, Python, FlatBuffer, Protobuf Developed unit tests for Flex/Bison rules, serialization/deserialization codes, and generated codes from examples Created detailed documentation </description>
+    </item>
+    
     <item>
       <title>Test System</title>
-      <link>https://petroladkin.github.io/portfolio/staffeye_testsystem_p1/</link>
-      <pubDate>Wed, 02 Jun 2021 00:00:00 +0300</pubDate>
+      <link>https://petroladkin.github.io/portfolio/staffeye_testsystem/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://petroladkin.github.io/portfolio/staffeye_testsystem_p1/</guid>
+      <guid>https://petroladkin.github.io/portfolio/staffeye_testsystem/</guid>
       <description>Development description
- Analyzed the existing code in the test engine to find the optimal intervention point because the code works in production Сreated a specific XML parser to support test configuration and integrated it into existing test engine Designed and implemented the ability to move magic numbers from the test code to configuration XML-files Analyzed the existing code in the test scripts to find repeating code Extracted repeating code from existing test scripts into a separate class  </description>
+Analyzed the existing code in the test engine to find the optimal intervention point because the code works in production Сreated a specific XML parser to support test configuration and integrated it into existing test engine Designed and implemented the ability to move magic numbers from the test code to configuration XML-files Analyzed the existing code in the test scripts to find repeating code Extracted repeating code from existing test scripts into a separate class </description>
     </item>
     
     <item>
       <title>KeyReel Windows</title>
       <link>https://petroladkin.github.io/portfolio/auxoft_keyreel_win/</link>
-      <pubDate>Sun, 12 Jan 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/auxoft_keyreel_win/</guid>
       <description>Development description
- Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with Windows communication service With the team under my leadership developed the main version of the product:  Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for Windows Designed and developed KeyReel Windows Application    App description</description>
+Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with Windows communication service With the team under my leadership developed the main version of the product: Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for Windows Designed and developed KeyReel Windows Application App description</description>
     </item>
     
   </channel>

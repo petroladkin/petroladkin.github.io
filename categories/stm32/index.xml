@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stm32 on Petro Ladkin</title>
+    <link>https://petroladkin.github.io/categories/stm32/</link>
+    <description>Recent content in stm32 on Petro Ladkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://petroladkin.github.io/categories/stm32/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Port F103 to F303</title>
+      <link>https://petroladkin.github.io/portfolio/staffeye_f103_to_f303/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petroladkin.github.io/portfolio/staffeye_f103_to_f303/</guid>
+      <description>Development description
+Migrated code from use SPL to HAL driver Migrated code from F103 to F303 chip Added support to work with the project on CubeIDE Migrated communication with MEMS LSM6DSO32 chip from internal code to Cube MEMS library Added merge gyroscope&amp;rsquo;s data and accelerometer&amp;rsquo;s data over the filter with the use MotionFX library Created detailed documentation </description>
+    </item>
+    
+  </channel>
+</rss>

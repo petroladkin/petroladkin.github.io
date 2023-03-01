@@ -6,124 +6,176 @@
     <description>Recent content on Petro Ladkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0300</lastBuildDate><atom:link href="https://petroladkin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://petroladkin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test System</title>
-      <link>https://petroladkin.github.io/portfolio/staffeye_testsystem_p1/</link>
-      <pubDate>Wed, 02 Jun 2021 00:00:00 +0300</pubDate>
+      <title>Port F103 to F303</title>
+      <link>https://petroladkin.github.io/portfolio/staffeye_f103_to_f303/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://petroladkin.github.io/portfolio/staffeye_testsystem_p1/</guid>
+      <guid>https://petroladkin.github.io/portfolio/staffeye_f103_to_f303/</guid>
       <description>Development description
- Analyzed the existing code in the test engine to find the optimal intervention point because the code works in production Сreated a specific XML parser to support test configuration and integrated it into existing test engine Designed and implemented the ability to move magic numbers from the test code to configuration XML-files Analyzed the existing code in the test scripts to find repeating code Extracted repeating code from existing test scripts into a separate class  </description>
+Migrated code from use SPL to HAL driver Migrated code from F103 to F303 chip Added support to work with the project on CubeIDE Migrated communication with MEMS LSM6DSO32 chip from internal code to Cube MEMS library Added merge gyroscope&amp;rsquo;s data and accelerometer&amp;rsquo;s data over the filter with the use MotionFX library Created detailed documentation </description>
     </item>
     
     <item>
-      <title>Kaup</title>
-      <link>https://petroladkin.github.io/portfolio/dm_kaup/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <title>Code generator from OMG IDL</title>
+      <link>https://petroladkin.github.io/portfolio/staffeye_omgidlgen/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://petroladkin.github.io/portfolio/dm_kaup/</guid>
+      <guid>https://petroladkin.github.io/portfolio/staffeye_omgidlgen/</guid>
       <description>Development description
- Designed and developed the product based on screens transition map and UI design from psd file Implemented support a localization in the application with Lean Localization framework Published to Apple AppStore, Google Play Market  App description
-The Viking village Kaup is a reconstruction of an early medieval settlement based on the archeology of Prussian and Scandinavian settlements and forts, which was built like a Danish military fortress of the 9th-11th centuries.</description>
+Designed and developed the generator tool based on the customer’s requirements Developed Flex and Bison rules to generate AST (Abstract syntax tree) from OMG IDL syntax Designed and developed the base code for serialization/deserialization data for the next languages: C, C++, C#, Python Developed writers for next languages: C, C++, C#, Python, FlatBuffer, Protobuf Developed unit tests for Flex/Bison rules, serialization/deserialization codes, and generated codes from examples Created detailed documentation </description>
+    </item>
+    
+    <item>
+      <title>MVP to the software on the robot</title>
+      <link>https://petroladkin.github.io/portfolio/deusrobotics_mvp_printer/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petroladkin.github.io/portfolio/deusrobotics_mvp_printer/</guid>
+      <description>Development description
+Designed and developed MVP based on the customer’s requirements Implemented support communication with a total station to correct the robot’s world position Implemented support communication between ROS 2 and Unity application </description>
+    </item>
+    
+    <item>
+      <title>Kaup 3D</title>
+      <link>https://petroladkin.github.io/portfolio/dm_kaup_3d/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petroladkin.github.io/portfolio/dm_kaup_3d/</guid>
+      <description>Development description
+Designed and developed the product based on screens transition map and UI design from psd file Implemented support a localization in the application with Lean Localization framework Published to Apple AppStore, Google Play Market App description
+Kaup is an ancient Prussian (Sambian) trade and craft center that existed in the 9th-10th centuries in the north of Sambia in East Prussia. During the Viking Age, this center in the Prussian area was one of the starting points of the Amber Route from the Baltic to the Mediterranean.</description>
+    </item>
+    
+    <item>
+      <title>Live History</title>
+      <link>https://petroladkin.github.io/portfolio/dm_livehistory/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petroladkin.github.io/portfolio/dm_livehistory/</guid>
+      <description>Development description
+Designed and developed the product based on screens transition map and UI design from psd file Implemented support a localization in the application with Lean Localization framework Implemented parse QR-Codes as AR marker to put 3D characters on place Connected LipSync framework to characters Published to Apple AppStore, Google Play Market App description
+Application guide along the tourist route, laid along the beginning of the Great Amber Road, with navigation through the places and legends of the Baltic peoples of a thousand years ago.</description>
+    </item>
+    
+    <item>
+      <title>Test System</title>
+      <link>https://petroladkin.github.io/portfolio/staffeye_testsystem/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petroladkin.github.io/portfolio/staffeye_testsystem/</guid>
+      <description>Development description
+Analyzed the existing code in the test engine to find the optimal intervention point because the code works in production Сreated a specific XML parser to support test configuration and integrated it into existing test engine Designed and implemented the ability to move magic numbers from the test code to configuration XML-files Analyzed the existing code in the test scripts to find repeating code Extracted repeating code from existing test scripts into a separate class </description>
     </item>
     
     <item>
       <title>CleverBooks Blocks</title>
       <link>https://petroladkin.github.io/portfolio/cleverbooks_blocks/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0300</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/cleverbooks_blocks/</guid>
       <description>Development description
- Designed and developed the product from early MVP code Added posible plaing the game in AR Fixed the tetris game engine to working in AR Space Prepared the application to localization with Lean Localization framework Added playback background sounds in the game Published to Apple AppStore, Google Play Market, and Amazon Store  App description
-CleverBooks Blocks is an educational game that supports 3D shapes learning, 3D dimacional thinking.</description>
+Designed and developed the product from early MVP code Added posible plaing the game in AR Fixed the tetris game engine to working in AR Space Prepared the application to localization with Lean Localization framework Added playback background sounds in the game Published to Apple AppStore, Google Play Market, and Amazon Store App description
+CleverBooks Blocks is an educational game that supports 3D shapes learning, 3D dimacional thinking. With the help of Augmented Reality, this educational game provides an overlay of geometric shapes on real world and helps to develop critical thinking, rational approach and learn 3D shapes.</description>
+    </item>
+    
+    <item>
+      <title>Kaup</title>
+      <link>https://petroladkin.github.io/portfolio/dm_kaup/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petroladkin.github.io/portfolio/dm_kaup/</guid>
+      <description>Development description
+Designed and developed the product based on screens transition map and UI design from psd file Implemented support a localization in the application with Lean Localization framework Published to Apple AppStore, Google Play Market App description
+The Viking village Kaup is a reconstruction of an early medieval settlement based on the archeology of Prussian and Scandinavian settlements and forts, which was built like a Danish military fortress of the 9th-11th centuries.</description>
     </item>
     
     <item>
       <title>CleverBooks Space</title>
       <link>https://petroladkin.github.io/portfolio/cleverbooks_space/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/cleverbooks_space/</guid>
       <description>Development description
- Migrated the product from Vuforia to EasyAR Fixed the project to previously published version after lose last version code from previous development team Prepared the application to localization with Lean Localization framework Added new rockets from prefabs to project and implemented product logic in new rockets Published to Apple AppStore, Google Play Market, and Amazon Store  App description
+Migrated the product from Vuforia to EasyAR Fixed the project to previously published version after lose last version code from previous development team Prepared the application to localization with Lean Localization framework Added new rockets from prefabs to project and implemented product logic in new rockets Published to Apple AppStore, Google Play Market, and Amazon Store App description
 Get ready to explore space and engineering missions with your mobile device!</description>
     </item>
     
     <item>
       <title>RC Car in AR</title>
       <link>https://petroladkin.github.io/portfolio/pela_rccarinar/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/pela_rccarinar/</guid>
       <description>Development description
- Сame up with the app idea Designed and developed the product Created and implemented physics car algorithm Implemented support a localization in the application with internal framework Published to Apple AppStore, Google Play Market  App description
+Сame up with the app idea Designed and developed the product Created and implemented physics car algorithm Implemented support a localization in the application with internal framework Published to Apple AppStore, Google Play Market App description
 Touch the incredible AR world with us, control RC cars in your favorite places.
 HOW TO PLAY
- Point the device towards the surface Place the virtual car on the selected surface Drive the car!</description>
+Point the device towards the surface Place the virtual car on the selected surface Drive the car!</description>
     </item>
     
     <item>
       <title>KeyReel iOS</title>
       <link>https://petroladkin.github.io/portfolio/auxoft_keyreel_ios/</link>
-      <pubDate>Tue, 14 Jan 2020 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/auxoft_keyreel_ios/</guid>
       <description>Development description
- Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with iOS database application With the team under my leadership developed the main version of the product:  Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for iOS Designed and developed KeyReel iOS Application    App description</description>
+Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with iOS database application With the team under my leadership developed the main version of the product: Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for iOS Designed and developed KeyReel iOS Application App description</description>
     </item>
     
     <item>
       <title>KeyReel macOS</title>
       <link>https://petroladkin.github.io/portfolio/auxoft_keyreel_osx/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/auxoft_keyreel_osx/</guid>
       <description>Development description
- Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with macOS communication service With the team under my leadership developed the main version of the product:  Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for macOS Designed and developed KeyReel macOS Application    App description</description>
+Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with macOS communication service With the team under my leadership developed the main version of the product: Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for macOS Designed and developed KeyReel macOS Application App description</description>
     </item>
     
     <item>
       <title>KeyReel Windows</title>
       <link>https://petroladkin.github.io/portfolio/auxoft_keyreel_win/</link>
-      <pubDate>Sun, 12 Jan 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/auxoft_keyreel_win/</guid>
       <description>Development description
- Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with Windows communication service With the team under my leadership developed the main version of the product:  Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for Windows Designed and developed KeyReel Windows Application    App description</description>
+Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with Windows communication service With the team under my leadership developed the main version of the product: Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for Windows Designed and developed KeyReel Windows Application App description</description>
     </item>
     
     <item>
       <title>KeyReel Web Extension</title>
       <link>https://petroladkin.github.io/portfolio/auxoft_keyreel_ext/</link>
-      <pubDate>Sat, 11 Jan 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/auxoft_keyreel_ext/</guid>
       <description>Development description
- Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with Web extension With the team under my leadership developed the main version of the product:  Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for iOS Designed and developed KeyReel Web Extension    App description</description>
+Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with Web extension With the team under my leadership developed the main version of the product: Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for iOS Designed and developed KeyReel Web Extension App description</description>
     </item>
     
     <item>
       <title>U2F kernel driver</title>
       <link>https://petroladkin.github.io/portfolio/auxoft_keyreel_osx_u2f/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/auxoft_keyreel_osx_u2f/</guid>
       <description>Development description
- Designed and developed macOS U2F kernel driver  App description
+Designed and developed macOS U2F kernel driver App description
 U2F kernel driver is used to support the U2F protocol in KeyReel</description>
     </item>
     
     <item>
       <title>KeyReel Testing DB</title>
       <link>https://petroladkin.github.io/portfolio/auxoft_keyreel_testdb/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/auxoft_keyreel_testdb/</guid>
       <description>Development description
- Designed and developed Chrome extension to manual KeyReel testing  App description
+Designed and developed Chrome extension to manual KeyReel testing App description
 Contains a database of test accounts to speed up KeyReel testing.
-screenshots               </description>
+screenshots</description>
     </item>
     
   </channel>

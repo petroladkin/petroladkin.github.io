@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Petro Ladkin</title>
+    <link>https://petroladkin.github.io/categories/linux/</link>
+    <description>Recent content in linux on Petro Ladkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://petroladkin.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code generator from OMG IDL</title>
+      <link>https://petroladkin.github.io/portfolio/staffeye_omgidlgen/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petroladkin.github.io/portfolio/staffeye_omgidlgen/</guid>
+      <description>Development description
+Designed and developed the generator tool based on the customer’s requirements Developed Flex and Bison rules to generate AST (Abstract syntax tree) from OMG IDL syntax Designed and developed the base code for serialization/deserialization data for the next languages: C, C++, C#, Python Developed writers for next languages: C, C++, C#, Python, FlatBuffer, Protobuf Developed unit tests for Flex/Bison rules, serialization/deserialization codes, and generated codes from examples Created detailed documentation </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,64 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://petroladkin.github.io/categories/</loc>
-    <lastmod>2021-06-02T00:00:00+03:00</lastmod>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petroladkin.github.io/</loc>
-    <lastmod>2021-06-02T00:00:00+03:00</lastmod>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/portfolio/staffeye_f103_to_f303/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petroladkin.github.io/portfolio/</loc>
-    <lastmod>2021-06-02T00:00:00+03:00</lastmod>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://petroladkin.github.io/portfolio/staffeye_testsystem_p1/</loc>
-    <lastmod>2021-06-02T00:00:00+03:00</lastmod>
+    <loc>https://petroladkin.github.io/categories/stm32/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://petroladkin.github.io/categories/windows/</loc>
-    <lastmod>2021-06-02T00:00:00+03:00</lastmod>
+    <loc>https://petroladkin.github.io/portfolio/staffeye_omgidlgen/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://petroladkin.github.io/portfolio/dm_kaup/</loc>
-    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://petroladkin.github.io/categories/unity/</loc>
-    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://petroladkin.github.io/categories/ar/</loc>
-    <lastmod>2021-05-01T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://petroladkin.github.io/portfolio/cleverbooks_blocks/</loc>
-    <lastmod>2021-05-01T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://petroladkin.github.io/portfolio/cleverbooks_space/</loc>
-    <lastmod>2021-03-01T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://petroladkin.github.io/portfolio/pela_rccarinar/</loc>
-    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://petroladkin.github.io/categories/ios/</loc>
-    <lastmod>2020-01-14T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://petroladkin.github.io/portfolio/auxoft_keyreel_ios/</loc>
-    <lastmod>2020-01-14T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://petroladkin.github.io/portfolio/auxoft_keyreel_osx/</loc>
-    <lastmod>2020-01-13T00:00:00+02:00</lastmod>
+    <loc>https://petroladkin.github.io/categories/linux/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petroladkin.github.io/categories/macos/</loc>
-    <lastmod>2020-01-13T00:00:00+02:00</lastmod>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/categories/windows/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/portfolio/deusrobotics_mvp_printer/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/categories/ros/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/portfolio/dm_kaup_3d/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/categories/unity/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/categories/ar/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/portfolio/dm_livehistory/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/portfolio/staffeye_testsystem/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/portfolio/cleverbooks_blocks/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/portfolio/dm_kaup/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/portfolio/cleverbooks_space/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/portfolio/pela_rccarinar/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/categories/ios/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/portfolio/auxoft_keyreel_ios/</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petroladkin.github.io/portfolio/auxoft_keyreel_osx/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petroladkin.github.io/portfolio/auxoft_keyreel_win/</loc>
-    <lastmod>2020-01-12T00:00:00+02:00</lastmod>
+    <lastmod>2020-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petroladkin.github.io/categories/extension/</loc>
-    <lastmod>2020-01-11T00:00:00+02:00</lastmod>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petroladkin.github.io/portfolio/auxoft_keyreel_ext/</loc>
-    <lastmod>2020-01-11T00:00:00+02:00</lastmod>
+    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petroladkin.github.io/portfolio/auxoft_keyreel_osx_u2f/</loc>
-    <lastmod>2020-01-10T00:00:00+02:00</lastmod>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petroladkin.github.io/portfolio/auxoft_keyreel_testdb/</loc>
-    <lastmod>2020-01-09T00:00:00+02:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petroladkin.github.io/about/</loc>
   </url><url>

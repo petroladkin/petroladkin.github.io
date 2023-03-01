@@ -23,7 +23,7 @@
   <meta name="description" property="og:description" content="The website of Petro Ladkin, Software Development Engineer">
   <meta name="image" property="og:image" content="/">
   <meta name="author" content="Petro Ladkin">
-  <meta name="generator" content="Hugo 0.83.1" />
+  <meta name="generator" content="Hugo 0.109.0">
 
   <!-- plugins -->
   
@@ -205,6 +205,24 @@
 
         
 
+        <li uk-filter-control="[data-tags*='linux']">
+          <a href="#">Linux</a>
+        </li>
+
+        
+
+        <li uk-filter-control="[data-tags*='ros']">
+          <a href="#">ROS</a>
+        </li>
+
+        
+
+        <li uk-filter-control="[data-tags*='stm32']">
+          <a href="#">STM32</a>
+        </li>
+
+        
+
         <li uk-filter-control="[data-tags*='extension']">
           <a href="#">Browser Extension</a>
         </li>
@@ -218,26 +236,78 @@
         uk-height-match="target: > li > div > .fixy"
       >
         
-        <li data-tags="windows">
+        <li data-tags="stm32">
           <div class="uk-card uk-card-default" style="position: relative;">
             <div class="fixy">
               <div class="uk-card-media-top">
                 <img
                   class="contain experience"
-                  src="https://petroladkin.github.io/portfolio/staffeye/testsystem/icon.png"
+                  src="https://petroladkin.github.io/portfolio/staffeye/f103_to_f303/icon.png"
                   alt=""
                 />
               </div>
               <div class="uk-card-body">
-                <h3 class="uk-card-title">Test System</h3>
-                <p>Refactored existing test system to remove magic numbers and spaghetti code [part 1]</p>
-                <p>C#</p>
-                <p>Windows</p>
+                <h3 class="uk-card-title">Port F103 to F303</h3>
+                <p>Refactored the existing project on STM32 microcontroller</p>
+                <p>C, HAL, MEMS</p>
+                <p>STM32</p>
               </div>
             </div>
 
             <div class="uk-card-footer">
-              <a href="/portfolio/staffeye_testsystem_p1/" class="uk-button uk-button-text"
+              <a href="/portfolio/staffeye_f103_to_f303/" class="uk-button uk-button-text"
+                >Read more</a
+              >
+            </div>
+          </div>
+        </li>
+        
+        <li data-tags="windows32linux32macos">
+          <div class="uk-card uk-card-default" style="position: relative;">
+            <div class="fixy">
+              <div class="uk-card-media-top">
+                <img
+                  class="contain experience"
+                  src="https://petroladkin.github.io/portfolio/staffeye/omgidlgen/icon.png"
+                  alt=""
+                />
+              </div>
+              <div class="uk-card-body">
+                <h3 class="uk-card-title">Code generator from OMG IDL</h3>
+                <p>Code generator from OMG IDL to C, C&#43;&#43;, C#, Python, FlatBuffer, and Protobuf languages with support cross-language serialization/deserialization</p>
+                <p>C/C&#43;&#43;, Flex/Bison</p>
+                <p>Windows/Linux/macOS</p>
+              </div>
+            </div>
+
+            <div class="uk-card-footer">
+              <a href="/portfolio/staffeye_omgidlgen/" class="uk-button uk-button-text"
+                >Read more</a
+              >
+            </div>
+          </div>
+        </li>
+        
+        <li data-tags="ros">
+          <div class="uk-card uk-card-default" style="position: relative;">
+            <div class="fixy">
+              <div class="uk-card-media-top">
+                <img
+                  class="contain experience"
+                  src="https://petroladkin.github.io/portfolio/deusrobotics/mvp_printer/icon.png"
+                  alt=""
+                />
+              </div>
+              <div class="uk-card-body">
+                <h3 class="uk-card-title">MVP to the software on the robot</h3>
+                <p>MVP to the software on the robot for print stickers on the floor</p>
+                <p>C&#43;&#43;, Python</p>
+                <p>ROS</p>
+              </div>
+            </div>
+
+            <div class="uk-card-footer">
+              <a href="/portfolio/deusrobotics_mvp_printer/" class="uk-button uk-button-text"
                 >Read more</a
               >
             </div>
@@ -250,20 +320,72 @@
               <div class="uk-card-media-top">
                 <img
                   class="contain experience"
-                  src="https://petroladkin.github.io/portfolio/dm/kaup/icon.jpeg"
+                  src="https://petroladkin.github.io/portfolio/dm/kaup_3d/icon.png"
                   alt=""
                 />
               </div>
               <div class="uk-card-body">
-                <h3 class="uk-card-title">Kaup</h3>
-                <p>Application about the Viking village Kaup</p>
+                <h3 class="uk-card-title">Kaup 3D</h3>
+                <p>Application to see a 3D model of the existing Kaup.</p>
                 <p>Unity | C#</p>
                 <p>iOS | Android</p>
               </div>
             </div>
 
             <div class="uk-card-footer">
-              <a href="/portfolio/dm_kaup/" class="uk-button uk-button-text"
+              <a href="/portfolio/dm_kaup_3d/" class="uk-button uk-button-text"
+                >Read more</a
+              >
+            </div>
+          </div>
+        </li>
+        
+        <li data-tags="unity32ar">
+          <div class="uk-card uk-card-default" style="position: relative;">
+            <div class="fixy">
+              <div class="uk-card-media-top">
+                <img
+                  class="contain experience"
+                  src="https://petroladkin.github.io/portfolio/dm/livehistory/icon.png"
+                  alt=""
+                />
+              </div>
+              <div class="uk-card-body">
+                <h3 class="uk-card-title">Live History</h3>
+                <p>Application-guide along the tourist route of the Great Amber Route</p>
+                <p>Unity | AR | C#</p>
+                <p>iOS | Android</p>
+              </div>
+            </div>
+
+            <div class="uk-card-footer">
+              <a href="/portfolio/dm_livehistory/" class="uk-button uk-button-text"
+                >Read more</a
+              >
+            </div>
+          </div>
+        </li>
+        
+        <li data-tags="windows">
+          <div class="uk-card uk-card-default" style="position: relative;">
+            <div class="fixy">
+              <div class="uk-card-media-top">
+                <img
+                  class="contain experience"
+                  src="https://petroladkin.github.io/portfolio/staffeye/testsystem/icon.png"
+                  alt=""
+                />
+              </div>
+              <div class="uk-card-body">
+                <h3 class="uk-card-title">Test System</h3>
+                <p>Refactored existing test system to remove magic numbers and spaghetti code</p>
+                <p>C#</p>
+                <p>Windows</p>
+              </div>
+            </div>
+
+            <div class="uk-card-footer">
+              <a href="/portfolio/staffeye_testsystem/" class="uk-button uk-button-text"
                 >Read more</a
               >
             </div>
@@ -290,6 +412,32 @@
 
             <div class="uk-card-footer">
               <a href="/portfolio/cleverbooks_blocks/" class="uk-button uk-button-text"
+                >Read more</a
+              >
+            </div>
+          </div>
+        </li>
+        
+        <li data-tags="unity">
+          <div class="uk-card uk-card-default" style="position: relative;">
+            <div class="fixy">
+              <div class="uk-card-media-top">
+                <img
+                  class="contain experience"
+                  src="https://petroladkin.github.io/portfolio/dm/kaup/icon.jpeg"
+                  alt=""
+                />
+              </div>
+              <div class="uk-card-body">
+                <h3 class="uk-card-title">Kaup</h3>
+                <p>Application about the Viking village Kaup</p>
+                <p>Unity | C#</p>
+                <p>iOS | Android</p>
+              </div>
+            </div>
+
+            <div class="uk-card-footer">
+              <a href="/portfolio/dm_kaup/" class="uk-button uk-button-text"
                 >Read more</a
               >
             </div>
@@ -554,7 +702,7 @@
   width: 1.2em;" alt="Creative Commons">
     <img loading="lazy" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1.2em;
   width: 1.2em;" alt="CC-BY">
-    2021
+    2021-2023
     Petro Ladkin
 
 

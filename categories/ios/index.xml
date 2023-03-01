@@ -6,15 +6,15 @@
     <description>Recent content in ios on Petro Ladkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0200</lastBuildDate><atom:link href="https://petroladkin.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://petroladkin.github.io/categories/ios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KeyReel iOS</title>
       <link>https://petroladkin.github.io/portfolio/auxoft_keyreel_ios/</link>
-      <pubDate>Tue, 14 Jan 2020 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/auxoft_keyreel_ios/</guid>
       <description>Development description
- Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with iOS database application With the team under my leadership developed the main version of the product:  Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for iOS Designed and developed KeyReel iOS Application    App description</description>
+Participated in the development of the main idea of the product, UX, architecture, planning, bootstrap build, and release system and was responsible for the architecture and protocol design Work with customers, fast working round, bug investigation, fix and deployment Designed and developed MVP of future KeyReel project with iOS database application With the team under my leadership developed the main version of the product: Developed bidirectional communication framework for Bluetooth using Thrift, and implemented reliable implementation for iOS Designed and developed KeyReel iOS Application App description</description>
     </item>
     
   </channel>

@@ -6,40 +6,51 @@
     <description>Recent content in ar on Petro Ladkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0300</lastBuildDate><atom:link href="https://petroladkin.github.io/categories/ar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://petroladkin.github.io/categories/ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live History</title>
+      <link>https://petroladkin.github.io/portfolio/dm_livehistory/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petroladkin.github.io/portfolio/dm_livehistory/</guid>
+      <description>Development description
+Designed and developed the product based on screens transition map and UI design from psd file Implemented support a localization in the application with Lean Localization framework Implemented parse QR-Codes as AR marker to put 3D characters on place Connected LipSync framework to characters Published to Apple AppStore, Google Play Market App description
+Application guide along the tourist route, laid along the beginning of the Great Amber Road, with navigation through the places and legends of the Baltic peoples of a thousand years ago.</description>
+    </item>
+    
     <item>
       <title>CleverBooks Blocks</title>
       <link>https://petroladkin.github.io/portfolio/cleverbooks_blocks/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0300</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/cleverbooks_blocks/</guid>
       <description>Development description
- Designed and developed the product from early MVP code Added posible plaing the game in AR Fixed the tetris game engine to working in AR Space Prepared the application to localization with Lean Localization framework Added playback background sounds in the game Published to Apple AppStore, Google Play Market, and Amazon Store  App description
-CleverBooks Blocks is an educational game that supports 3D shapes learning, 3D dimacional thinking.</description>
+Designed and developed the product from early MVP code Added posible plaing the game in AR Fixed the tetris game engine to working in AR Space Prepared the application to localization with Lean Localization framework Added playback background sounds in the game Published to Apple AppStore, Google Play Market, and Amazon Store App description
+CleverBooks Blocks is an educational game that supports 3D shapes learning, 3D dimacional thinking. With the help of Augmented Reality, this educational game provides an overlay of geometric shapes on real world and helps to develop critical thinking, rational approach and learn 3D shapes.</description>
     </item>
     
     <item>
       <title>CleverBooks Space</title>
       <link>https://petroladkin.github.io/portfolio/cleverbooks_space/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/cleverbooks_space/</guid>
       <description>Development description
- Migrated the product from Vuforia to EasyAR Fixed the project to previously published version after lose last version code from previous development team Prepared the application to localization with Lean Localization framework Added new rockets from prefabs to project and implemented product logic in new rockets Published to Apple AppStore, Google Play Market, and Amazon Store  App description
+Migrated the product from Vuforia to EasyAR Fixed the project to previously published version after lose last version code from previous development team Prepared the application to localization with Lean Localization framework Added new rockets from prefabs to project and implemented product logic in new rockets Published to Apple AppStore, Google Play Market, and Amazon Store App description
 Get ready to explore space and engineering missions with your mobile device!</description>
     </item>
     
     <item>
       <title>RC Car in AR</title>
       <link>https://petroladkin.github.io/portfolio/pela_rccarinar/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petroladkin.github.io/portfolio/pela_rccarinar/</guid>
       <description>Development description
- Сame up with the app idea Designed and developed the product Created and implemented physics car algorithm Implemented support a localization in the application with internal framework Published to Apple AppStore, Google Play Market  App description
+Сame up with the app idea Designed and developed the product Created and implemented physics car algorithm Implemented support a localization in the application with internal framework Published to Apple AppStore, Google Play Market App description
 Touch the incredible AR world with us, control RC cars in your favorite places.
 HOW TO PLAY
- Point the device towards the surface Place the virtual car on the selected surface Drive the car!</description>
+Point the device towards the surface Place the virtual car on the selected surface Drive the car!</description>
     </item>
     
   </channel>
